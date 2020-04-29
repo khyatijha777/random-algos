@@ -1,3 +1,3 @@
 # random-algos
 
-This repo contains various problems wg=hich are algorithm based.
+This repo contains various problems which are algorithm based.
